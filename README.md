@@ -40,7 +40,7 @@ $ npm install leopardo
 
 ## Docs
 
-* [Website and Documentation](https://alejandrocsdev.github.io/leopardo/)
+* [Website and Documentation](https://leopardo.alejandrocsdev.com)
 
 ## Author
 
