@@ -1,3 +1,14 @@
+1.4.0 / 2026-02-28
+==================
+
+  * Major internal refactor with pipeline-based architecture
+  * Introduced application factory pattern
+  * Added mountable Router instances
+  * Implemented middleware + route execution pipeline
+  * Added request/response extensions (status, json, path)
+  * Improved error propagation and control flow
+  * Performance and maintainability improvements
+
 1.3.0 / 2024-04-14
 ==================
 

@@ -37,8 +37,6 @@ $ npm install leopardo
 * Robust Routing
 * HTTP Helpers
 * Built-in Middlewares
-* Dynamic Content Engine
-* Built-in Commands (MySQL, Changelog)
 
 ## Docs
 
