@@ -1,4 +1,4 @@
-[![Leopardo Logo](https://alejandrocsdev.github.io/leopardo/img/logo.png)](https://alejandrocsdev.github.io/leopardo/)
+[![Leopardo Logo](https://alejandrocsdev.github.io/leopardo/banner-white.png)](https://alejandrocsdev.github.io/leopardo/)
 
   Fast web framework for [Node.js](http://nodejs.org).
 
